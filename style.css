@@ -1,0 +1,33 @@
+body{
+
+    background-color: #EFDFDB;}
+    
+    *{
+    margin: 0;
+    padding:0;
+    }
+    
+    }
+    
+    
+    h1{
+    color: #7E726E;
+    font-size: 30px;
+    }
+    
+    h3{
+    color:#4D4445 ;
+    font-size: 20px;
+    }
+    
+    .logo img{
+    width: 100px;
+    
+    }
+    .table {
+        width: 70%;}
+    
+    .table td, 
+    .table th {
+    padding: 2px;
+    }
